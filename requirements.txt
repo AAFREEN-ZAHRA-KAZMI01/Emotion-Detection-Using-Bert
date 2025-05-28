@@ -1,8 +1,9 @@
 streamlit==1.25.0
-torch==2.0.1
+torch==2.5.1  # Latest compatible version with Python 3.13
 transformers==4.34.0
 numpy>=1.26.0
 pandas>=1.5.3
 scikit-learn>=1.2.2
 matplotlib>=3.7.1
-pillow>=10.0.0
+gradio>=4.8.0
+# Remove pillow version pinning to let streamlit pick a compatible one
