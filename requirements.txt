@@ -1,4 +1,4 @@
-streamlit
-torch
-transformers
-numpy
+streamlit==1.25.0
+torch==2.5.1
+transformers==4.34.0
+numpy==1.25.2
