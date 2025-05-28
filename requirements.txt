@@ -1,8 +1,9 @@
 streamlit==1.25.0
-torch==2.5.1
+torch==2.0.1
 transformers==4.34.0
 numpy>=1.26.0
 pandas>=1.5.3
 scikit-learn>=1.2.2
 matplotlib>=3.7.1
-gradio>=3.40.1
+gradio>=4.8.0
+pillow>=10.0.0
